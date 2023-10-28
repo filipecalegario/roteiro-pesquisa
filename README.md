@@ -23,7 +23,7 @@
 ## Revisando o tema
 
 * O que **outras pessoas** estão fazendo para resolver o problema?
-* Existem **competidores ou concorrentes**? Se sim, o que eles já não estão fazendo que você acha interessante de explorar?
+* Existem **competidores ou concorrentes**? Se sim, o que eles não estão fazendo que você acha interessante de explorar?
 * Existem **inspirações** que não necessariamente estão diretamente relacionadas ao problema ou tema?
 
 ### Definindo palavras-chave
@@ -40,7 +40,9 @@
 * Existe alguma Awesome List que já traz um conjunto de boas referências sobre seu tempo?
 * [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome) 
 
-## Identificando o gap
+### Identificando o gap
+
+* Conclua sua revisão com um quadro comparativo, mostrando o gap que existe de características ainda não trabalhadas.
 
 ## Definindo os objetivos
 
