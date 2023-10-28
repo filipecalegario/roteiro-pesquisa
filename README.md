@@ -62,6 +62,10 @@
 
 ## Avaliando a solução
 
+* Considere se realizará avaliações qualitativas e/ou avaliações quantitativas
+* [System Usability Scale (SUS) | Usability.gov](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html): método quantitativo para avaliar a **usabilidade**
+* [User Experience Questionnaire (UEQ)](https://www.ueq-online.org/): método quantitativo para avaliar a **experiência do usuário**
+
 ### Coletando os dados
 
 ### Analisando os dados
