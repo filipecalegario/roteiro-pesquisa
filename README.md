@@ -10,6 +10,7 @@
 ### Ainda não tenho um tema
 
 * Para trabalhos de mídias e interação, em qual modalidade quer trabalhar: texto, imagem, vídeo, áudio, música, jogos?
+* Para a modalidade escolhida, já existe uma catalogação de técnicas? Se sim, qual ou quais te chama mais atenção? Se não, você quer trabalhar nessa catalogação?
 
 ### Já tenho um tema!
 
@@ -28,6 +29,11 @@
 ### Definindo palavras-chave
 
 ### Buscando em repositórios acadêmicos
+
+* [ACM Digital Library](https://dl.acm.org/)
+* [arXiv.org e-Print archive](https://arxiv.org/): repositório de pre-prints, ou seja, documentos que ainda não foram publicados em conferências e periódicos. Pode trazer o que há de mais novo na área, porém considere que alguns ainda não passaram pelo processo de _peer review_, ou seja, outros pesquisadores não avaliaram o trabalho. 
+* [Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org/)
+* [Google Scholar](https://scholar.google.com/) 
 
 ### Buscando no GitHub
 
