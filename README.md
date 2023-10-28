@@ -63,7 +63,7 @@
 ## Avaliando a solução
 
 * Considere se realizará avaliações qualitativas e/ou avaliações quantitativas
-* [System Usability Scale (SUS) | Usability.gov](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html): método quantitativo para avaliar a **usabilidade**
+* [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html): método quantitativo para avaliar a **usabilidade**
 * [User Experience Questionnaire (UEQ)](https://www.ueq-online.org/): método quantitativo para avaliar a **experiência do usuário**
 
 ### Coletando os dados
@@ -75,4 +75,9 @@
 ### Discutindo os resultados
 
 ## Concluindo o trabalho
+
+* Revisite suas perguntas de pesquisa, suas hipóteses, mostrando como elas foram validadas ou não
+* Apresente uma lista de contribuições do seu trabalho
+* Faça um recorte de limitações do seu trabalho
+* Escreva os trabalhos futuros, destacando como você ou outras pessoas podem dar continuidade ao seu trabalho
 
