@@ -38,6 +38,7 @@
 ### Buscando no GitHub
 
 * Existe alguma Awesome List que já traz um conjunto de boas referências sobre seu tempo?
+* [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome) 
 
 ## Identificando o gap
 
@@ -46,6 +47,8 @@
 ## Definindo o método
 
 ## Propondo uma solução
+
+## Descrevendo a implementação 
 
 ## Avaliando a solução
 
