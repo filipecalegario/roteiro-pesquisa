@@ -7,9 +7,15 @@
 
 ## Definindo o tema
 
+### Ainda não tenho um tema
+
 * Para trabalhos de mídias e interação, em qual modalidade quer trabalhar: texto, imagem, vídeo, áudio, música, jogos?
-* É um tema que traz empolgação? Empolgação é o combustível para uma boa experiência de pesquisa.
-* É um tema relevante? Trará impacto positivo para quem?
+
+### Já tenho um tema!
+
+* É um tema que te traz empolgação? Empolgação é o combustível para uma boa experiência de pesquisa.
+* É um tema relevante? Traga evidências de que é um tema relevante.
+* Trará impacto positivo para quem? Como?
 
 ## Definindo o problema
 
