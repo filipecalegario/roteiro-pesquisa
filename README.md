@@ -28,6 +28,10 @@
 
 ### Definindo palavras-chave
 
+* Quais as palavras-chave que definimitam o tema e o problema no qual você quer trabalhar?
+* Explore os materiais publicados e atualize as palavras-chave com outros termos que as pessoas estão usando sobre o tema e/ou problema.
+* Este é um processo iterativo e incremental.
+
 ### Buscando em repositórios acadêmicos
 
 * [ACM Digital Library](https://dl.acm.org/)
@@ -38,7 +42,11 @@
 ### Buscando no GitHub
 
 * Existe alguma Awesome List que já traz um conjunto de boas referências sobre seu tempo?
-* [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome) 
+* [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+
+### Fazendo uma Revisão Sistemática da Literatura
+
+* Avalie se você tem tempo para fazer uma Avaliação Sistemática da Literatura (ex.: para TCCs talvez o tempo seja muito curto)
 
 ### Identificando o gap
 
