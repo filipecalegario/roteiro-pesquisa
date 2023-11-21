@@ -3,7 +3,7 @@
 ## Referências para começar
 
 * [Roteiro básico de uma tese | por Geber Ramalho](roteiro_geber.md)
-* [uma TESE são “só” 5 coisas… — dia a dia, bit a bit | por Silvio Meira](https://silvio.meira.com/uma-tese-sao-so-5-coisas/) [resumo imagem](tese_sao_5_coisas.md)
+* [uma TESE são “só” 5 coisas… — dia a dia, bit a bit | por Silvio Meira](https://silvio.meira.com/uma-tese-sao-so-5-coisas/) [[resumo imagem](tese_sao_5_coisas.md)]
 
 ## Definindo o tema
 
