@@ -4,19 +4,17 @@
 * [ACM CHI Conference on Human Factors in Computing Systems (CHI)](https://chi.acm.org/): Principal conferência internacional em Interação Humano-Computador.
 * [ACM Symposium on User Interface Software and Technology (UIST)](https://uist.acm.org/): Focado em inovações técnicas em interfaces e interações de usuário.
 * [Designing Interactive Systems (DIS)](https://dis.acm.org/): Explora práticas, métodos e teorias para o design interativo.
-* [ACM SIGGRAPH](https://s2024.siggraph.org/): Focado em computação gráfica, visualização e interação.
 * [ACM TEI - Tangible, Embedded, and Embodied Interaction](https://tei.acm.org/): Foco em interação tangível, interfaces embarcadas e sistemas sensoriais.
 * [Nordic Conference on Human-Computer Interaction (NordiCHI)](https://nordichi.org/): Conferência europeia de destaque em HCI.
-* [Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI)](https://mobilehci.acm.org/): Aborda interação em dispositivos móveis e serviços.
 * [INTERACT](https://www.interact2023.org/): Série de conferências promovida pela IFIP, com foco em Interação Humano-Computador.
 * [ACM Creativity & Cognition (C&C)](https://cc.acm.org/): Explora criatividade, design e inovação em computação interativa.
-* [Augmented Human Conference (AH)](https://www.augmented-human.com/): Focado em interação ampliada e computação wearable.
 
 ### Design, Visualização e Áreas Correlatas
 * [ACM Symposium on Computer-Human Interaction in Play (CHI PLAY)](https://chiplay.acm.org/): Focado em interação e design de jogos.
 * [ACM Conference on Designing for Interactive Systems (DIS)](https://dis.acm.org/): Explora abordagens criativas e metodológicas para o design interativo.
 * [Conference on Tangible, Embedded and Embodied Interaction (TEI)](https://tei.acm.org/): Sistemas tangíveis e interação sensorial.
 * [EuroVis - Eurographics Conference on Visualization](https://www.eurovis.org/): Focado em técnicas de visualização.
+* [ACM SIGGRAPH](https://s2024.siggraph.org/): Focado em computação gráfica, visualização e interação.
 
 ### Periódicos
 
@@ -82,8 +80,7 @@
 * [International Computer Music Conference (ICMC)](https://computermusic.org/): Conferência interdisciplinar que explora a interseção de música, tecnologia e computação.
 * [Sound and Music Computing Conference (SMC)](https://www.smcnetwork.org/): Focado em música computacional, análise de som e interações sonoras.
 * [International Symposium on Electronic Art (ISEA)](https://isea2024.isea-international.org/): Explora a interseção de arte eletrônica, música e tecnologia.
-* [ICLC - International Conference on Live Coding](https://iclc.livecodenetwork.org/): Focado em live coding e técnicas criativas de música gerada em tempo real.
-* [TENOR - International Conference on Technologies for Music Notation and Representation](http://tenor-conference.org/): Explora novas tecnologias para notação e representação musical.
+* [International Conference on Live Coding (ICLC)](https://iclc.livecodenetwork.org/): Focado em live coding e técnicas criativas de música gerada em tempo real.
 * [Conference on Interdisciplinary Musicology (CIM)](https://www.musicology.org/): Focado na interseção de música, tecnologia e ciências cognitivas.
 * [AES International Conference (Audio Engineering Society)](https://www.aes.org/conferences/): Conferência sobre engenharia de áudio e som, incluindo música computacional.
 * [ISMIR - International Society for Music Information Retrieval Conference](https://www.ismir.net/): Explora recuperação de informações musicais, análise e computação aplicada à música.
@@ -93,26 +90,22 @@
 * [Computer Music Journal (CMJ)](https://direct.mit.edu/comj): Publica artigos sobre música computacional, novas tecnologias musicais e instrumentos inovadores.
 * [Journal of New Music Research (JNMR)](https://www.tandfonline.com/toc/nnmr20/current): Focado em pesquisa interdisciplinar em música e tecnologia.
 * [Organised Sound](https://www.cambridge.org/core/journals/organised-sound): Explora aspectos da música eletroacústica e som organizado.
-* [Journal of Sound and Music in Games (JSMG)](https://online.ucpress.edu/jsmg): Focado em música e som em videogames e mídias interativas.
 * [Journal of the Audio Engineering Society (JAES)](https://www.aes.org/journal/): Publica estudos em engenharia de áudio e tecnologia de som.
-* [Music Perception](https://online.ucpress.edu/mp): Explora psicologia musical, cognição e análise computacional da música.
 * [Leonardo Music Journal](https://www.leonardo.info/leonardo-music-journal): Publica trabalhos sobre música experimental, tecnologia e arte sonora.
-* [Applied Sciences - Special Issue on Computer Music](https://www.mdpi.com/journal/applsci/special_issues/computer_music): Focado em aplicações de ciência e tecnologia na música computacional.
 
 ### Repositórios Associados
 * [NIME Proceedings Archive](https://www.nime.org/archives/): Arquivo de todos os artigos apresentados nas conferências NIME.
 * [ICMC Proceedings Archive](https://quod.lib.umich.edu/i/icmc/): Arquivo de publicações da International Computer Music Conference.
 * [ISMIR Proceedings](https://www.ismir.net/proceedings/): Repositório de artigos apresentados nas conferências ISMIR.
-* [Score Follower](https://scorefollower.com/): Repositório interativo de partituras e performances computacionais.
 * [Music Technology Open Source Projects](https://mtg.upf.edu/): Recursos e projetos de código aberto relacionados à tecnologia musical.
 * [Live Coding Repositories](https://github.com/toplap): Repositórios de código e ferramentas de live coding.
-* [SuperCollider](https://supercollider.github.io/): Plataforma de código aberto para síntese sonora e composição algorítmica.
-* [Pure Data (Pd)](https://puredata.info/): Ferramenta visual de programação para criação de música e áudio interativo.
 
 ### Ferramentas e Comunidades
 * [Sonic Pi](https://sonic-pi.net/): Ambiente para composição musical baseada em código.
 * [ChucK](https://chuck.cs.princeton.edu/): Linguagem de programação para síntese sonora e composição musical em tempo real.
 * [TOPLAP](https://toplap.org/): Comunidade dedicada ao live coding e exploração criativa de música algorítmica.
+* [SuperCollider](https://supercollider.github.io/): Plataforma de código aberto para síntese sonora e composição algorítmica.
+* [Pure Data (Pd)](https://puredata.info/): Ferramenta visual de programação para criação de música e áudio interativo.
 
 ---
 
@@ -144,6 +137,50 @@
 
 ### Ferramentas e Comunidades
 * [Hugging Face](https://huggingface.co/): Repositório com modelos de linguagem generativa e ferramentas de IA.
-* [RunwayML](https://runwayml.com/): Ferramenta para experimentação com IA generativa, incluindo DALL·E e outros modelos.
-* [DeepDream](https://deepdreamgenerator.com/): Plataforma de geração de imagens com redes neurais.
-* [Figma AI Plugins](https://www.figma.com/community/plugins/tag/ai): Plugins que utilizam IA generativa para design.
+
+---
+
+## Conferências da Sociedade Brasileira de Computação (SBC)
+
+### Conferências Gerais
+* [Congresso da Sociedade Brasileira de Computação (CSBC)](https://www.sbc.org.br/eventos/csbc): Evento anual que reúne diversas trilhas e workshops, cobrindo várias áreas da Computação, incluindo HCI, IA, música computacional e agentes inteligentes.
+
+---
+
+### Interação Humano-Computador (HCI) e Design de Interface
+* [IHC - Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais](https://ihc.sbc.org.br/): Principal evento brasileiro sobre Interação Humano-Computador, com foco em usabilidade, design e interfaces inovadoras.
+* [SBGames - Simpósio Brasileiro de Jogos e Entretenimento Digital](https://sbgames.org/): Inclui tópicos relacionados à interação em jogos, design de interfaces e gamificação.
+
+---
+
+### Criatividade Computacional
+* [SBAC - Simpósio Brasileiro de Artes Computacionais](https://sbac.sbc.org.br/): Evento focado em tecnologias computacionais aplicadas à arte, design e criatividade digital.
+
+---
+
+### Interfaces para Expressão Musical e Computação Musical
+* [SBMUS - Simpósio Brasileiro de Computação Musical](https://sbmus.sbc.org.br/): Evento dedicado a tecnologias computacionais aplicadas à música, incluindo novas interfaces e algoritmos musicais.
+
+---
+
+### Inteligência Artificial Generativa
+* [ENIAC - Encontro Nacional de Inteligência Artificial e Computacional](https://eniac.sbc.org.br/): Focado em avanços teóricos e práticos em Inteligência Artificial, incluindo tópicos em IA generativa.
+* [BRACIS - Brazilian Conference on Intelligent Systems](https://www.bracis.dcc.ufmg.br/): Conferência abrangente sobre sistemas inteligentes, incluindo aprendizado profundo e modelos generativos.
+
+---
+
+### Agentes Inteligentes
+* [SBIA - Simpósio Brasileiro de Inteligência Artificial](https://www.sbia.sbc.org.br/): Evento histórico da SBC, agora integrado ao BRACIS, cobrindo tópicos de agentes autônomos e sistemas multiagentes.
+* [WESAAC - Workshop-School on Agents, Environments, and Applications](https://wesaac.sbc.org.br/): Workshop-escola focado em agentes inteligentes, aprendizado multiagente e aplicações.
+
+---
+
+### Outras Conferências Relevantes da SBC
+* [SBESC - Simpósio Brasileiro de Engenharia de Sistemas Computacionais](https://sbesc.sbc.org.br/): Explora aspectos de sistemas ciberfísicos e agentes computacionais.
+* [SBLP - Simpósio Brasileiro de Linguagens de Programação](https://sblp.sbc.org.br/): Inclui trabalhos sobre linguagens para desenvolvimento de agentes e IA.
+* [SBBD - Simpósio Brasileiro de Banco de Dados](https://sbbd.sbc.org.br/): Embora centrado em banco de dados, pode incluir tópicos sobre a aplicação de IA generativa para análise de dados.
+* [SBCUP - Simpósio Brasileiro de Computação Ubíqua e Pervasiva](https://sbcup.sbc.org.br/): Relacionado à integração de agentes inteligentes e tecnologias ubíquas.
+
+---
+
+Essa adição inclui os principais eventos da SBC organizados por super tópicos. Caso precise de mais informações ou queira um detalhamento de cada evento, posso ajudar!
