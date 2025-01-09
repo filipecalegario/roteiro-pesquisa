@@ -18,7 +18,7 @@
 * É um tema relevante? Traga evidências de que é um tema relevante.
 * Trará impacto positivo para quem? Como?
 * Adicione a consideração sobre **tendências atuais** em seu campo de estudo e a pertinência delas no contexto local ou global.
-* Considere a **viabilidade** do tema: Recursos, tempo, ferramentas e dados disponíveis para conduzir a pesquisa.
+* Considere a **viabilidade** do tema: recursos, tempo, ferramentas e dados disponíveis para conduzir a pesquisa.
 
 ## Definindo o problema
 
@@ -40,15 +40,33 @@
 
 ### Buscando em repositórios acadêmicos
 
-* [ACM Digital Library](https://dl.acm.org/)
-* [IEEE Xplore](https://ieeexplore.ieee.org/)
-* [arXiv.org e-Print archive](https://arxiv.org/): repositório de pre-prints, ou seja, documentos que ainda não foram publicados em conferências e periódicos. Pode trazer o que há de mais novo na área, porém considere que alguns ainda não passaram pelo processo de _peer review_, ou seja, outros pesquisadores não avaliaram o trabalho. 
-* [Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org/)
-* [Google Scholar](https://scholar.google.com/) 
+* [ACM Digital Library](https://dl.acm.org/): Biblioteca digital da ACM com artigos científicos, periódicos e atas de conferências em Computação.
+* [IEEE Xplore](https://ieeexplore.ieee.org/): Plataforma para artigos técnicos, conferências e padrões relacionados a Engenharia e Computação.
+* [arXiv.org e-Print archive](https://arxiv.org/): Repositório de acesso aberto para pré-prints em diversas áreas, incluindo Computação. OBS: pre-prints são documentos que ainda não foram publicados em conferências e periódicos. Pode trazer o que há de mais novo na área, porém alguns ainda não passaram pelo processo de _peer review_, ou seja, outros pesquisadores não avaliaram o trabalho.
+* [Google Scholar](https://scholar.google.com/): Ferramenta de busca do Google para artigos acadêmicos, teses e patentes.
+* [Semantic Scholar](https://www.semanticscholar.org/): Plataforma de busca com inteligência artificial para encontrar artigos científicos relevantes.
+* [SpringerLink](https://link.springer.com/): Acesso a artigos científicos e capítulos de livros em Computação e áreas correlatas.
+* [Scopus](https://www.scopus.com/): Base de dados de artigos revisados por pares, conferências e livros, com análises bibliométricas.
+* [Web of Science](https://clarivate.com/webofsciencegroup/solutions/web-of-science/): Índice multidisciplinar para busca de publicações acadêmicas e análise de citações.
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/): Recurso para encontrar artigos na interface entre Computação e Ciências Biomédicas.
+* [ResearchGate](https://www.researchgate.net/): Rede acadêmica para compartilhar artigos, acompanhar pesquisadores e discutir temas científicos.
+* [Academia.edu](https://www.academia.edu/): Plataforma para acessar artigos, monografias e trabalhos acadêmicos em diversas áreas.
+* [CiteSeerX](http://citeseerx.ist.psu.edu/): Mecanismo de busca especializado em publicações de Ciência da Computação.
+* [DOAJ (Directory of Open Access Journals)](https://doaj.org/): Repositório de periódicos de acesso aberto, incluindo publicações de Tecnologia e Computação.
+* [Papers With Code](https://paperswithcode.com/): Ferramenta para encontrar artigos científicos acompanhados de implementações de código.
+* [CORE](https://core.ac.uk/): Repositório britânico de acesso aberto com milhões de artigos acadêmicos.
+* [OpenCitations](https://opencitations.net/): Banco de dados para análise de citações em publicações acadêmicas.
+* [Mendeley](https://www.mendeley.com/): Gerenciador de referências com acesso a artigos compartilhados pela comunidade.
+* [Library Genesis (LibGen)](http://libgen.rs/): Recurso alternativo para busca de livros e artigos acadêmicos (legalidade varia por região).
+* [JSTOR](https://www.jstor.org/): Plataforma de artigos de periódicos, capítulos de livros e outros materiais acadêmicos.
+* [SSRN (Social Science Research Network)](https://www.ssrn.com/): Repositório de pré-prints, útil para áreas interdisciplinares de Computação.
+* [ScienceDirect](https://www.sciencedirect.com/): Plataforma da Elsevier para artigos revisados por pares e capítulos de livros.
+* [HAL Archives Ouvertes](https://hal.archives-ouvertes.fr/): Repositório francês de publicações acadêmicas, incluindo Computação.
+* [Zotero Groups](https://www.zotero.org/groups/): Comunidade de compartilhamento de bibliografias e publicações organizadas por área de interesse.
 
 ### Buscando no GitHub
 
-* Existe alguma Awesome List que já traz um conjunto de boas referências sobre seu tempo?
+* Você já viu se existe alguma Awesome List que já traz um conjunto de boas referências sobre seu tempo?
 * [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 
 ### Fazendo uma Revisão Sistemática da Literatura
@@ -64,7 +82,7 @@
 
 ## Definindo os objetivos
 
-* Distinga entre **objetivos gerais** e **objetivos específicos**. O primeiro é amplo e abstrato; os últimos são concretos e mensuráveis.
+* Faça uma distinção entre **objetivos gerais** e **objetivos específicos**. O primeiro é amplo e abstrato; os últimos são concretos e mensuráveis.
 
 ## Definindo o método
 
