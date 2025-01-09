@@ -1,8 +1,6 @@
-# Conferências e Periódicos em Computação (CHI, UIST, DIS, etc.)
+## Interação Humano-Computador (HCI) e Design de Interface
 
-## Conferências
-
-### Interação Humano-Computador (HCI) e Design de Interface
+### Conferências
 * [ACM CHI Conference on Human Factors in Computing Systems (CHI)](https://chi.acm.org/): Principal conferência internacional em Interação Humano-Computador.
 * [ACM Symposium on User Interface Software and Technology (UIST)](https://uist.acm.org/): Focado em inovações técnicas em interfaces e interações de usuário.
 * [Designing Interactive Systems (DIS)](https://dis.acm.org/): Explora práticas, métodos e teorias para o design interativo.
@@ -20,11 +18,9 @@
 * [Conference on Tangible, Embedded and Embodied Interaction (TEI)](https://tei.acm.org/): Sistemas tangíveis e interação sensorial.
 * [EuroVis - Eurographics Conference on Visualization](https://www.eurovis.org/): Focado em técnicas de visualização.
 
----
+### Periódicos
 
-## Periódicos
-
-### Interação Humano-Computador e Design
+#### Interação Humano-Computador e Design
 * [ACM Transactions on Computer-Human Interaction (TOCHI)](https://tochi.acm.org/): Publica pesquisas de alto impacto em HCI.
 * [International Journal of Human-Computer Studies (IJHCS)](https://www.journals.elsevier.com/international-journal-of-human-computer-studies): Focado em estudos teóricos e experimentais sobre HCI.
 * [Human-Computer Interaction (HCI Journal)](https://www.tandfonline.com/toc/hhci20/current): Explora interação de usuários com tecnologias de computação.
@@ -33,19 +29,17 @@
 * [Behaviour & Information Technology (BIT)](https://www.tandfonline.com/toc/tbit20/current): Explora o comportamento humano e seu impacto na tecnologia da informação.
 * [Personal and Ubiquitous Computing](https://www.springer.com/journal/779): Aborda computação ubíqua e interações personalizadas.
 
-### Design Criativo e Interfaces Avançadas
+#### Design Criativo e Interfaces Avançadas
 * [Design Studies](https://www.journals.elsevier.com/design-studies): Focado em design como uma atividade criativa.
 * [Journal of Usability Studies (JUS)](https://uxpajournal.org/): Explora métodos e estudos de usabilidade.
 * [The Visual Computer](https://www.springer.com/journal/371): Focado em visualização gráfica e interação 3D.
 
-### Áreas Interdisciplinares
+#### Áreas Interdisciplinares
 * [IEEE Transactions on Visualization and Computer Graphics (TVCG)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945): Publica artigos sobre visualização científica e computação gráfica.
 * [Journal on Multimodal User Interfaces (JMUI)](https://www.springer.com/journal/12193): Explora interação multimodal com usuários.
 * [Computer Supported Cooperative Work (CSCW)](https://link.springer.com/journal/10606): Aborda colaboração mediada por tecnologia.
 
----
-
-## Repositórios Associados
+### Repositórios Associados
 * [HCI Bibliography (HCIBib)](http://hcibib.org/): Repositório com links e referências a conferências e periódicos na área de HCI.
 * [Interaction Design Foundation (IDF)](https://www.interaction-design.org/): Recurso educacional e repositório para tópicos de design de interação.
 
@@ -63,8 +57,6 @@
 * [AIIDE - Artificial Intelligence and Interactive Digital Entertainment](https://www.aiide.org/): Inclui trabalhos sobre criatividade computacional aplicada a jogos e narrativas.
 * [NeurIPS Creativity and Design Workshop](https://neurips.cc/): Workshop associado ao NeurIPS, focado em criatividade computacional e design auxiliado por IA.
 
----
-
 ### Periódicos
 * [Journal of Creative Behavior (JCB)](https://onlinelibrary.wiley.com/journal/21626057): Publica artigos sobre criatividade, incluindo sistemas computacionais criativos.
 * [Computational Creativity Journal](http://computationalcreativity.net/): Periódico especializado em estudos e implementações na área de criatividade computacional.
@@ -73,8 +65,6 @@
 * [AI & Society](https://www.springer.com/journal/146): Publica trabalhos sobre o impacto da inteligência artificial na sociedade, incluindo criatividade computacional.
 * [Journal of Artificial Intelligence Research (JAIR)](https://jair.org/): Abrange temas de criatividade computacional relacionados à IA.
 * [Journal of Mathematics and the Arts](https://www.tandfonline.com/toc/tmaa20/current): Aborda o cruzamento entre matemática, arte e criatividade computacional.
-
----
 
 ### Repositórios Associados
 * [Creative AI Lab](https://www.creativeai.net/): Repositório e comunidade dedicada ao uso de IA para promover criatividade.
@@ -99,8 +89,6 @@
 * [ISMIR - International Society for Music Information Retrieval Conference](https://www.ismir.net/): Explora recuperação de informações musicais, análise e computação aplicada à música.
 * [AI Music Creativity Conference](https://aimusiccreativity.org/): Conferência sobre aplicações de IA na criação musical e expressão artística.
 
----
-
 ### Periódicos
 * [Computer Music Journal (CMJ)](https://direct.mit.edu/comj): Publica artigos sobre música computacional, novas tecnologias musicais e instrumentos inovadores.
 * [Journal of New Music Research (JNMR)](https://www.tandfonline.com/toc/nnmr20/current): Focado em pesquisa interdisciplinar em música e tecnologia.
@@ -110,8 +98,6 @@
 * [Music Perception](https://online.ucpress.edu/mp): Explora psicologia musical, cognição e análise computacional da música.
 * [Leonardo Music Journal](https://www.leonardo.info/leonardo-music-journal): Publica trabalhos sobre música experimental, tecnologia e arte sonora.
 * [Applied Sciences - Special Issue on Computer Music](https://www.mdpi.com/journal/applsci/special_issues/computer_music): Focado em aplicações de ciência e tecnologia na música computacional.
-
----
 
 ### Repositórios Associados
 * [NIME Proceedings Archive](https://www.nime.org/archives/): Arquivo de todos os artigos apresentados nas conferências NIME.
@@ -123,11 +109,41 @@
 * [SuperCollider](https://supercollider.github.io/): Plataforma de código aberto para síntese sonora e composição algorítmica.
 * [Pure Data (Pd)](https://puredata.info/): Ferramenta visual de programação para criação de música e áudio interativo.
 
----
-
 ### Ferramentas e Comunidades
 * [Sonic Pi](https://sonic-pi.net/): Ambiente para composição musical baseada em código.
 * [ChucK](https://chuck.cs.princeton.edu/): Linguagem de programação para síntese sonora e composição musical em tempo real.
 * [TOPLAP](https://toplap.org/): Comunidade dedicada ao live coding e exploração criativa de música algorítmica.
 
 ---
+
+## Inteligência Artificial Generativa
+
+### Conferências
+* [NeurIPS - Conference on Neural Information Processing Systems](https://neurips.cc/): Principal conferência sobre aprendizado de máquina, incluindo avanços em IA generativa.
+* [International Conference on Machine Learning (ICML)](https://icml.cc/): Focado em avanços teóricos e práticos em aprendizado de máquina, com destaque para IA generativa.
+* [International Joint Conference on Artificial Intelligence (IJCAI)](https://www.ijcai.org/): Abrange todas as áreas de IA, incluindo técnicas generativas.
+* [Conference on Computer Vision and Pattern Recognition (CVPR)](http://cvpr.thecvf.com/): Inclui trabalhos sobre IA generativa aplicada a visão computacional.
+* [ICLR - International Conference on Learning Representations](https://iclr.cc/): Aborda aprendizado profundo e modelos generativos de última geração.
+* [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI/): Inclui tópicos sobre IA generativa e aplicações em diversas áreas.
+* [EvoStar - EvoMUSART](https://www.evostar.org/): Parte do EvoStar, explora IA generativa para arte, música e design evolutivo.
+
+### Periódicos
+* [Journal of Artificial Intelligence Research (JAIR)](https://jair.org/): Publica artigos sobre avanços teóricos e práticos em IA, incluindo modelos generativos.
+* [Neural Networks](https://www.journals.elsevier.com/neural-networks): Focado em redes neurais e técnicas de IA generativa.
+* [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385): Publica trabalhos sobre aprendizado profundo e modelos generativos.
+* [Artificial Intelligence Journal](https://www.journals.elsevier.com/artificial-intelligence): Abrange pesquisas inovadoras em IA, incluindo modelos generativos.
+* [Nature Machine Intelligence](https://www.nature.com/natmachintell/): Inclui pesquisas de ponta em IA generativa e aprendizado profundo.
+* [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters): Inclui trabalhos sobre geração de padrões e IA generativa.
+* [AI & Society](https://www.springer.com/journal/146): Explora o impacto da IA, incluindo IA generativa, na sociedade.
+
+### Repositórios Associados
+* [Papers With Code - Generative Models](https://paperswithcode.com/task/generative-modeling): Repositório com artigos e implementações de modelos generativos.
+* [OpenAI GitHub](https://github.com/openai): Repositório oficial da OpenAI, com código para GPT, DALL·E e outros modelos generativos.
+* [PyTorch Hub](https://pytorch.org/hub/): Modelos generativos prontos para uso no PyTorch.
+* [StyleGAN GitHub](https://github.com/NVlabs/stylegan): Repositório para o famoso modelo StyleGAN, usado para geração de imagens realistas.
+
+### Ferramentas e Comunidades
+* [Hugging Face](https://huggingface.co/): Repositório com modelos de linguagem generativa e ferramentas de IA.
+* [RunwayML](https://runwayml.com/): Ferramenta para experimentação com IA generativa, incluindo DALL·E e outros modelos.
+* [DeepDream](https://deepdreamgenerator.com/): Plataforma de geração de imagens com redes neurais.
+* [Figma AI Plugins](https://www.figma.com/community/plugins/tag/ai): Plugins que utilizam IA generativa para design.
