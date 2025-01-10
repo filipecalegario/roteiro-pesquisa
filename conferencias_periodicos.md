@@ -8,6 +8,7 @@
 * [Nordic Conference on Human-Computer Interaction (NordiCHI)](https://nordichi.org/): Conferência europeia de destaque em HCI.
 * [INTERACT](https://www.interact2023.org/): Série de conferências promovida pela IFIP, com foco em Interação Humano-Computador.
 * [ACM Creativity & Cognition (C&C)](https://cc.acm.org/): Explora criatividade, design e inovação em computação interativa.
+* [Intelligent User Interfaces (IUI)](https://dl-acm-org.ez16.periodicos.capes.gov.br/conference/iui)
 
 ### Design, Visualização e Áreas Correlatas
 * [ACM Symposium on Computer-Human Interaction in Play (CHI PLAY)](https://chiplay.acm.org/): Focado em interação e design de jogos.
@@ -83,7 +84,7 @@
 * [International Conference on Live Coding (ICLC)](https://iclc.livecodenetwork.org/): Focado em live coding e técnicas criativas de música gerada em tempo real.
 * [Conference on Interdisciplinary Musicology (CIM)](https://www.musicology.org/): Focado na interseção de música, tecnologia e ciências cognitivas.
 * [AES International Conference (Audio Engineering Society)](https://www.aes.org/conferences/): Conferência sobre engenharia de áudio e som, incluindo música computacional.
-* [ISMIR - International Society for Music Information Retrieval Conference](https://www.ismir.net/): Explora recuperação de informações musicais, análise e computação aplicada à música.
+* [International Society for Music Information Retrieval Conference (ISMIR)](https://www.ismir.net/): Explora recuperação de informações musicais, análise e computação aplicada à música.
 * [AI Music Creativity Conference](https://aimusiccreativity.org/): Conferência sobre aplicações de IA na criação musical e expressão artística.
 
 ### Periódicos
