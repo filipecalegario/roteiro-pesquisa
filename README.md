@@ -127,3 +127,5 @@
 * Além das limitações, discuta possíveis **implicações éticas** ou **sociais** de sua pesquisa.
 * Escreva os trabalhos futuros, destacando como você ou outras pessoas podem dar continuidade ao seu trabalho
 
+"Neste trabalho, endereçamos o problema de [...] de tal forma a melhorar o [...]. Outras pessoas já tinham tentado resolver este problema, porém não [...]. Assim, nós propusemos a abordagem tal [...] que se mostrou boa nos seguintes aspectos: [...]. Porém, ainda é limitada por conta de [...]".
+
