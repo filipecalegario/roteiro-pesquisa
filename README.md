@@ -86,6 +86,7 @@
 
 ## Definindo o método
 
+* Explore o site do [Empirical Standards](https://www2.sigsoft.org/EmpiricalStandards/docs/standards) para ver possibilidades de métodos de pesquisa
 * Descreva os **instrumentos e ferramentas** que serão utilizados.
 * Defina se a abordagem será **quantitativa, qualitativa ou mista**.
 
